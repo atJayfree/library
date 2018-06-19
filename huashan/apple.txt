@@ -1,1 +1,2 @@
 first apple
+seconed apple from hot_fix branch
