@@ -3,4 +3,8 @@ seconed apple from hot_fix branch
 three time apple from hot_fix branch
 master edit conflict
 hot fix test conflict... 
-这是本地编写的一条信息,用来测试当远程仓库也同时更改了这个文件后,执行pull命令会有什么结果
+
+这是本地编写的一条信息,用来测试当远程仓库也同时更改了这个文件后,执行pull命令会有什么
+=解决冲突了
+测试:这是在github上新增的一条信息,如果在本地也对这个文件修改了,那么在本地pull这个远程项目结果如何
+>>>>>>> ff4730f82010f0a5f845ed69cc2ed6ee686fcca7
