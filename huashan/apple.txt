@@ -3,5 +3,5 @@ seconed apple from hot_fix branch
 three time apple from hot_fix branch
 master edit conflict
 hot fix test conflict... 
-测试:这是在github上新增的一条信息,如果在本地也对这个文件修改了,那么在本地pull这个远程项目结果如何
-
+测试:这是在github上新增的一条信息,如果在本地也对这个文件修改了,那么在本地pull这个远程项目(删了几个字)
+测试:本地新增一行  
