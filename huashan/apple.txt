@@ -3,4 +3,4 @@ seconed apple from hot_fix branch
 three time apple from hot_fix branch
 master edit conflict
 hot fix test conflict... 
-
+这是本地编写的一条信息,用来测试当远程仓库也同时更改了这个文件后,执行pull命令会有什么结果
